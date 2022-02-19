@@ -5,7 +5,9 @@ This scrip scans for hidden dirs, sub-domains and crawls link
 # Installation
 
 `git clone https://github.com/DJDarkCyber/autoWebInfoGather.git`
+
 `cd autoWebInfoGather`
+
 `python3 autoWebInfoGather`
 
 # Future Updates
