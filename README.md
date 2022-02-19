@@ -14,4 +14,4 @@ This scrip scans for hidden dirs, sub-domains and crawls link
 
 The script not completed yet!
 
-Future updates with Website Vuln Detectors which detects for SQL-Injection, XSS, etc..
+Future updates with Website Vuln Detectors which detects for SQL-Injection, XSS, etc.. are coming soon
